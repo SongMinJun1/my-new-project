@@ -1,0 +1,8 @@
+# macOS 시스템 파일 제외
+.DS_Store
+
+# VSCode 설정 파일 제외
+.vscode/
+
+# Node.js 프로젝트의 모듈 제외 (백엔드 할 때 필요)
+node_modules/
